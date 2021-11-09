@@ -1,0 +1,1 @@
+A place to store single problems, as opposed to collections. I expect these to generally be slightly larger problems, or will at least have more space given to various possible solutions.
